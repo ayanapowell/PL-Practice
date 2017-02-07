@@ -13,6 +13,42 @@
       "name": "tile3",
       "style": "style3",
       "image": "../../../../images/pic03.jpg"
+    },{
+      "name": "tile4",
+      "style": "style4",
+      "image": "../../../../images/pic04.jpg"
+    },{
+      "name": "tile5",
+      "style": "style5",
+      "image": "../../../../images/pic05.jpg"
+    },{
+      "name": "tile6",
+      "style": "style6",
+      "image": "../../../../images/pic06.jpg"
+    },{
+      "name": "tile7",
+      "style": "style1",
+      "image": "../../../../images/pic07.jpg"
+    },{
+      "name": "tile8",
+      "style": "style2",
+      "image": "../../../../images/pic08.jpg"
+    },{
+      "name": "tile9",
+      "style": "style3",
+      "image": "../../../../images/pic09.jpg"
+    },{
+      "name": "tile10",
+      "style": "style4",
+      "image": "../../../../images/pic10.jpg"
+    },{
+      "name": "tile11",
+      "style": "style5",
+      "image": "../../../../images/pic11.jpg"
+    },{
+      "name": "tile12",
+      "style": "style6",
+      "image": "../../../../images/pic12.jpg"
     }
   ]
 }
