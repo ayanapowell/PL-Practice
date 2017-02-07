@@ -18,8 +18,8 @@ component-libraries:
       - source/_patterns/00-base/animations/01-transitions
       - source/_patterns/00-base/breakpoints
       - source/_patterns/00-base/grids
+      - source/_patterns/00-base/grids/utilities/borders
       - source/_patterns/00-base/spacing
-      - source/_patterns/00-base/utilities/borders
   atoms:
     paths:
       - source/_patterns/01-atoms
@@ -32,6 +32,7 @@ component-libraries:
   molecules:
     paths:
       - source/_patterns/02-molecules
+      - source/_patterns/02-molecules/box-thumbnail
       - source/_patterns/02-molecules/branding
       - source/_patterns/02-molecules/caption-block
   organisms:
@@ -40,6 +41,7 @@ component-libraries:
       - source/_patterns/03-organisms/grids/caption-grid-block
       - source/_patterns/03-organisms/site/site-footer
       - source/_patterns/03-organisms/site/site-header
+      - source/_patterns/03-organisms/thumbnail-grid
   templates:
     paths:
       - source/_patterns/04-templates

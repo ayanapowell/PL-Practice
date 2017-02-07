@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "name": "tile1",
+      "style": "style1",
+      "image": "../../../../images/pic01.jpg"
+    },
+    {
+      "name": "tile2",
+      "style": "style2",
+      "image": "../../../../images/pic02.jpg"
+    },{
+      "name": "tile3",
+      "style": "style3",
+      "image": "../../../../images/pic03.jpg"
+    }
+  ]
+}

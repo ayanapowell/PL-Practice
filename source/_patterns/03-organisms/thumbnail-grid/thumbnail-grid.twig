@@ -1,0 +1,8 @@
+<section class="tiles">
+  {% for item in items %}
+    {% include "@molecules/box-thumbnail.twig" with {
+      img: item.image,
+      style: item.style
+    }%}
+  {% endfor %}
+</section>
