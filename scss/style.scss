@@ -1,6 +1,13 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,900");
-
+@import "normalize-scss/sass/normalize";
+// Grid system, https://github.com/at-import/Singularity
+@import "singularity/stylesheets/singularitygs";
+// A cleaner way to do breakpoints/media queries, http://breakpoint-sass.com/,
+@import "breakpoint-sass/stylesheets/breakpoint";
+// Helpful mixins, http://bourbon.io/docs/
+@import "bourbon/app/assets/stylesheets/bourbon";
+// @import "../source/**/*.scss";
 /*
 	Phantom by HTML5 UP
 	html5up.net | @ajlkn
@@ -3356,6 +3363,11 @@
 
 		}
 
-		// .box-thumbnail {
-		// 	display: inline-flex;
-		// }
+		.box-thumbnail {
+			border: solid;
+			width: calc(33.33% - 2.5em);
+			height: 360.88px;
+			margin: 2.5em 00 2.5em;
+		}
+
+		// @import "../source/**/*.scss";

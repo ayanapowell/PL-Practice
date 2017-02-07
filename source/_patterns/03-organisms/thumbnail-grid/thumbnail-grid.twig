@@ -2,7 +2,9 @@
   {% for item in items %}
     {% include "@molecules/box-thumbnail.twig" with {
       img: item.image,
-      style: item.style
+      style: item.style,
+      thumbnailTitle: item.thumbnailTitle,
+      thumbnailParagraph: item.thumbnailParagraph
     }%}
   {% endfor %}
 </section>

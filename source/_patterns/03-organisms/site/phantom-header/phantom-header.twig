@@ -1,0 +1,9 @@
+  <header>
+    {% include '@molecules/branding/phantom-brand/phantom-brand.twig' %}
+    {% for item in items %}
+    	{% include '@molecules/header-block/header-block.twig' with {
+        headerBlockTitle: item.headerBlockTitle,
+        headerBlockParagraph: item.headerBlockParagraph
+      } %}
+    {% endfor %}
+  </header>

@@ -1,0 +1,10 @@
+{
+  "items": [
+    {
+      "thumbnailTitle": "Lorem Ipsum",
+      "thumbnailParagraph": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.",
+      "image": "../../../../images/fpo_avatar.png",
+      "style": "style3"
+    }
+  ]
+}

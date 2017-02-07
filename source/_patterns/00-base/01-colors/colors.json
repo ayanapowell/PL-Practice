@@ -42,7 +42,7 @@
     },
     {
       "name": "$c-gray--darker",
-      "value": "hsl(0, 0%, 20%)",
+      "value": "#585858",
       "comment": ""
     },
     {
