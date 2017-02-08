@@ -1,10 +1,29 @@
 <section class="tiles">
-  {% for item in items %}
-    {% include "@molecules/box-thumbnail.twig" with {
-      img: item.image,
-      style: item.style,
-      thumbnailTitle: item.thumbnailTitle,
-      thumbnailParagraph: item.thumbnailParagraph
-    }%}
+  {% set gridCount = 11 %}
+  {% for i in 0..gridCount %}
+      {% include "@molecules/box-thumbnail.twig" %}
   {% endfor %}
 </section>
+
+
+
+<!-- <section class="tiles">
+ {% for item in items %}
+    {% include "@molecules/box-thumbnail.twig" %}
+  {% endfor %}
+</section> -->
+
+
+<!-- with {
+ img: "../../../../images/pic01.jpg",
+ style: "style00",
+ thumbnailTitle: "360.88 x 333.27",
+ thumbnailParagraph: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+ with {
+  img: item.img,
+  style: item.style,
+  thumbnailTitle: item.thumbnailTitle,
+  thumbnailParagraph: item.thumbnailParagraph
+}
+ } -->

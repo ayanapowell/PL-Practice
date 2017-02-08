@@ -2737,6 +2737,11 @@
 						margin-bottom: 0;
 					}
 
+					.tiles article.style00 > .image:before {
+						background-color: gray;
+					}
+
+
 			.tiles article.style1 > .image:before {
 				background-color: #f2849e;
 			}
@@ -2996,12 +3001,14 @@
 
 /* Menu */
 
-	#wrapper {
+	#wrapper2 {
 		-moz-transition: opacity 0.45s ease;
 		-webkit-transition: opacity 0.45s ease;
 		-ms-transition: opacity 0.45s ease;
 		transition: opacity 0.45s ease;
 		opacity: 1;
+		max-width: 90%;
+		margin: 0 auto;
 	}
 
 	#menu {
@@ -3369,5 +3376,6 @@
 			height: 360.88px;
 			margin: 2.5em 00 2.5em;
 		}
+
 
 		// @import "../source/**/*.scss";

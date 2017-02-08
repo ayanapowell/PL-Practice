@@ -1,76 +1,76 @@
 {
-  "items": [
+  "testitems": [
     {
       "name": "tile1",
       "style": "style1",
-      "image": "../../../../images/fpo_avatar.png",
+      "image": "../../../../images/pic01.jpg",
       "thumbnailTitle": "Magna",
       "thumbnailParagraph": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat."
     },
     {
       "name": "tile2",
       "style": "style2",
-      "image": "../../../../images/fpo_avatar.png",
+      "image": "../../../../images/pic02.jpg",
       "thumbnailTitle": "Magna",
       "thumbnailParagraph": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat."
     },{
       "name": "tile3",
       "style": "style3",
-      "image": "../../../../images/fpo_avatar.png",
+      "image": "../../../../images/pic03.jpg",
       "thumbnailTitle": "Magna",
       "thumbnailParagraph": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat."
     },{
       "name": "tile4",
       "style": "style4",
-      "image": "../../../../images/fpo_avatar.png",
+      "image": "../../../../images/pic04.jpg",
       "thumbnailTitle": "Magna",
       "thumbnailParagraph": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat."
     },{
       "name": "tile5",
       "style": "style5",
-      "image": "../../../../images/fpo_avatar.png",
+      "image": "../../../../images/pic05.jpg",
       "thumbnailTitle": "Magna",
       "thumbnailParagraph": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat."
     },{
       "name": "tile6",
       "style": "style6",
-      "image": "../../../../images/fpo_avatar.png",
+      "image": "../../../../images/pic06.jpg",
       "thumbnailTitle": "Magna",
       "thumbnailParagraph": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat."
     },{
       "name": "tile7",
       "style": "style1",
-      "image": "../../../../images/fpo_avatar.png",
+      "image": "../../../../images/pic07.jpg",
       "thumbnailTitle": "Magna",
       "thumbnailParagraph": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat."
     },{
       "name": "tile8",
       "style": "style2",
-      "image": "../../../../images/fpo_avatar.png",
+      "image": "../../../../images/pic08.jpg",
       "thumbnailTitle": "Magna",
       "thumbnailParagraph": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat."
     },{
       "name": "tile9",
       "style": "style3",
-      "image": "../../../../images/fpo_avatar.png",
+      "image": "../../../../images/pic09.jpg",
       "thumbnailTitle": "Magna",
       "thumbnailParagraph": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat."
     },{
       "name": "tile10",
       "style": "style4",
-      "image": "../../../../images/fpo_avatar.png",
+      "image": "../../../../images/pic10.jpg",
       "thumbnailTitle": "Magna",
       "thumbnailParagraph": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat."
     },{
       "name": "tile11",
       "style": "style5",
-      "image": "../../../../images/fpo_avatar.png",
+      "image": "../../../../images/pic11.jpg",
       "thumbnailTitle": "Magna",
       "thumbnailParagraph": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat."
     },{
       "name": "tile12",
       "style": "style6",
-      "image": "../../../../images/fpo_avatar.png",
+      "image": "../../../../images/pic12.jpg",
       "thumbnailTitle": "Magna",
       "thumbnailParagraph": "Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat."
     }

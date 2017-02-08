@@ -1,2 +1,10 @@
-{% include "@organisms/phantom-header.twig" %}
-{% include "@organisms/thumbnail-grid.twig" %}
+<div id="wrapper2">
+  {% include "@organisms/site/phantom-header/phantom-header.twig" %}
+  {% include "@organisms/thumbnail-grid.twig" with {
+    items: [
+      {
+        style: "style1",
+      }
+    ]
+  } %}
+</div>

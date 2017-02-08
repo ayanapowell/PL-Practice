@@ -40,5 +40,9 @@
     "ampm": "Faker.amPm"
   },
   "minute": "Faker.numberBetween(1, 59)",
-  "seconds": "Faker.numberBetween(1, 59)"
+  "seconds": "Faker.numberBetween(1, 59)",
+  "style": "style00",
+  "img": "../../../../images/fpo_avatar.png",
+  "thumbnailTitle": "Ipsum Loren",
+  "thumbnailParagraph":"Faker.paragraph"
 }
